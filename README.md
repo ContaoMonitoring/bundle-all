@@ -13,7 +13,7 @@ For more information see the [[Contao Monitoring]](https://github.com/ContaoMoni
 Installation
 ------------
 
-Install it via [composer](https://packagist.org/packages/contao-monitoring/bundle-all).
+Install it via composer: [contao-monitoring/bundle-all](https://packagist.org/packages/contao-monitoring/bundle-all).
 
 
 Tracker
