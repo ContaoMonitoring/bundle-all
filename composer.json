@@ -1,0 +1,32 @@
+{
+	"name":"contao-monitoring/bundle-all",
+	"description":"Installs the Contao Monitoring system and all available additional components.",
+	"keywords":["contao", "monitoring", "bundle"],
+	"type":"contao-module",
+	"license":"LGPL-3.0+",
+	"authors":[
+		{
+			"name":"Cliff Parnitzky",
+			"email":"contao@cliff-parnitzky.de",
+			"role":"Developer"
+		}
+	],
+	"support":{
+		"email":"contao@cliff-parnitzky.de",
+		"issues":"https://github.com/ContaoMonitoring/bundle-all/issues",
+		"source":"https://github.com/ContaoMonitoring/bundle-all"
+	},
+	"require":{
+		"php":">=5.3",
+		"contao/core":">=3.3.0,<4.0.0-dev",
+		"contao-community-alliance/composer-installer":"*",
+		"contao-monitoring/monitoring":">=1.4.0",
+		"contao-monitoring/monitoring-additional-infos":">=1.0.x"
+		"contao-monitoring/monitoring-timeline":">=1.1.x"
+	},
+	"extra":{
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
+}
