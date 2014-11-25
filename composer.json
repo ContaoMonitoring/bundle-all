@@ -21,7 +21,7 @@
 		"contao/core":">=3.3.0,<4.0.0-dev",
 		"contao-community-alliance/composer-installer":"*",
 		"contao-monitoring/monitoring":">=1.4.0",
-		"contao-monitoring/monitoring-additional-infos":">=1.0.x"
+		"contao-monitoring/monitoring-additional-infos":">=1.0.x",
 		"contao-monitoring/monitoring-timeline":">=1.1.x"
 	},
 	"extra":{
