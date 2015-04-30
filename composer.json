@@ -1,8 +1,9 @@
 {
 	"name":"contao-monitoring/bundle-all",
 	"description":"Installs the Contao Monitoring system and all available additional components.",
-	"keywords":["contao", "monitoring", "bundle"],
-	"type":"contao-module",
+	"keywords":["contao", "monitoring", "bundle", "metapackage"],
+	"type":"metapackage",
+	"homepage":"https://github.com/ContaoMonitoring/monitoring",
 	"license":"LGPL-3.0+",
 	"authors":[
 		{
