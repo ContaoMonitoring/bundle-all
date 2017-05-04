@@ -9,6 +9,8 @@ Installs the [[Contao Monitoring]](https://github.com/ContaoMonitoring/monitorin
 
 For more information see the [[Contao Monitoring]](https://github.com/ContaoMonitoring/monitoring) system.
 
+After installation update the database and define Monitoring specific values in the system settings.
+
 
 Installation
 ------------
