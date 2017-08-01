@@ -19,11 +19,11 @@
 	},
 	"require":{
 		"php":">=5.3",
-		"contao/core":">=3.2.0,<3.6",
-		"contao-community-alliance/composer-plugin":"~2.0",
+		"contao/core-bundle":"~3.2 || ~4.4",
+		"contao-community-alliance/composer-plugin":"~2.4 || ~3.0",
 		"contao-monitoring/monitoring":"~1.8",
-		"contao-monitoring/monitoring-compression":"~1.1",
 		"contao-monitoring/monitoring-additional-infos":"~1.1",
+		"contao-monitoring/monitoring-compression":"~1.1",
 		"contao-monitoring/monitoring-response-time-graph":"~1.0",
 		"contao-monitoring/monitoring-tasks":"~1.1",
 		"contao-monitoring/monitoring-timeline":"~1.2"
