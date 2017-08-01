@@ -27,5 +27,5 @@ https://github.com/ContaoMonitoring/bundle-all/issues
 Compatibility
 -------------
 
-- min. Contao version: >= 3.2.0
-- max. Contao version: <  3.6.0
+- Contao version >= 3.2.0 ... <  3.6.0
+- Contao version >= 4.4.0
