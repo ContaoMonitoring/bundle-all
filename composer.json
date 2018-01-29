@@ -4,7 +4,7 @@
 	"keywords":["contao", "monitoring", "bundle", "metapackage"],
 	"type":"metapackage",
 	"homepage":"https://github.com/ContaoMonitoring/monitoring",
-	"license":"LGPL-3.0+",
+	"license":"LGPL-3.0-or-later",
 	"authors":[
 		{
 			"name":"Cliff Parnitzky",
@@ -21,10 +21,13 @@
 		"php":">=5.3",
 		"contao/core-bundle":"~3.2 || ~4.4",
 		"contao-community-alliance/composer-plugin":"~2.4 || ~3.0",
-		"contao-monitoring/monitoring":"~1.8",
+		"contao-monitoring/monitoring":"~1.9",
 		"contao-monitoring/monitoring-additional-infos":"~1.1",
 		"contao-monitoring/monitoring-compression":"~1.1",
-		"contao-monitoring/monitoring-response-time-graph":"~1.0",
+		"contao-monitoring/monitoring-response-time-graph":"~1.1",
+		"contao-monitoring/monitoring-scan-client":"~1.0",
+		"contao-monitoring/monitoring-scan-client-worker":"~1.0",
+		"contao-monitoring/monitoring-scan-client-worker-update-contao-version":"~1.0",
 		"contao-monitoring/monitoring-tasks":"~1.1",
 		"contao-monitoring/monitoring-timeline":"~1.2"
 	},
@@ -33,7 +36,7 @@
 	},
 	"extra":{
 		"branch-alias": {
-			"dev-master": "1.4.x-dev"
+			"dev-master": "1.5.x-dev"
 		}
 	}
 }
