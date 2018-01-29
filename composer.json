@@ -25,6 +25,9 @@
 		"contao-monitoring/monitoring-additional-infos":"~1.1",
 		"contao-monitoring/monitoring-compression":"~1.1",
 		"contao-monitoring/monitoring-response-time-graph":"~1.1",
+		"contao-monitoring/monitoring-scan-client":"~1.0",
+		"contao-monitoring/monitoring-scan-client-worker":"~1.0",
+		"contao-monitoring/monitoring-scan-client-worker-update-contao-version":"~1.0",
 		"contao-monitoring/monitoring-tasks":"~1.1",
 		"contao-monitoring/monitoring-timeline":"~1.2"
 	},
